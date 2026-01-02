@@ -1,6 +1,10 @@
 # Profit-Stress-Recovery
 A comprehensive Power BI project focusing on identifying loss-making products, evaluating profitability stress points, and simulating recovery through dynamic What-If analysis. Includes interactive visuals, KPI tracking, and scenario testing to support data-driven business decisions.
 
+## Data Preparation
+
+This report was built after performing proper data cleaning and data modeling.  
+The dataset was prepared by cleaning raw data, handling inconsistencies, and defining the necessary relationships between tables to ensure accurate calculations and reliable insights.
 
 # Power BI Sales Analysis Report
 
